@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start"
   },
-  "author": "",
+  "author": "Hyeon",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
